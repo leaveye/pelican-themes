@@ -2,7 +2,7 @@
 UI functions dedicated to the Google+ modal panel
 */
 
-var gplus_api_user = 'https://www.googleapis.com/plus/v1/people/';
+var gplus_api_user = 'https://www.useso.com/plus/v1/people/';
 var gplus_api_posts = '/activities/public?maxResults=20';
 var gplus_api_access = 'key='
 

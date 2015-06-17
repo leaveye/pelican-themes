@@ -91,7 +91,7 @@ If you want to change the font for the Titles (not the one which is used for the
 
 At the moment, line 14 says:
 ```
-@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.useso.com/css?family=Lobster);
 ```
 
 I'm using Google Web Fonts to get the font, here is the link to it: [Lobster](http://www.google.com/webfonts#QuickUsePlace:quickUse/Family:)
